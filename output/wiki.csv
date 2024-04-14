@@ -1,0 +1,101 @@
+Rang,Name,Hauptsitz,Land,Umsatz(Mrd. $),Gewinn(Mrd. $),Mitarbeiter,Branche,Geschäftsführer
+1.,Walmart,Bentonville,Vereinigte Staaten USA,"611,289","11,680",2.100.000,Einzelhandel,Doug McMillon
+2.,Saudi Aramco,Dhahran,Saudi-Arabien Saudi-Arabien,"603,651","159,069",70.496,Öl und Gas,Amin H. Nasser
+3.,State Grid,Peking,China Volksrepublik Volksrepublik China,"530,009","8,192",870.287,Energieversorger,Liu Zhenya
+4.,Amazon.com,Seattle,Vereinigte Staaten USA,"513,983","−2,722",1.541.000,Internethandel,Andy Jassy
+5.,China National Petroleum,Peking,China Volksrepublik Volksrepublik China,"483,019","21,080",1.087.049,Öl und Gas,Li Fanrong
+6.,Sinopec,Peking,China Volksrepublik Volksrepublik China,"471,154","9,657",527.487,Öl und Gas,Dai Houliang
+7.,ExxonMobil,Irving,Vereinigte Staaten USA,"413,680","55,740",62.000,Öl und Gas,Darren Woods
+8.,Apple,Cupertino,Vereinigte Staaten USA,"394,328","99,803",164.000,Technologie,Tim Cook
+9.,Shell,London,Vereinigtes Konigreich Großbritannien,"386,201","20,120",93.000,Öl und Gas,Charles O. Holliday
+10.,UnitedHealth,Minnetonka,Vereinigte Staaten USA,"324,162","20,120",400.000,Versicherungen,David S. Wichmann
+11.,CVS Health,Woonsocket,Vereinigte Staaten USA,"322,467","4,149",259.500,Pharmahandel,Karen S. Lynch
+12.,Trafigura,Amsterdam,Niederlande Niederlande,"318,476","6,994",12.347,Rohstoffhandel,Jeremy Weir
+13.,China State Construction Engineering,Peking,China Volksrepublik Volksrepublik China,"305,885","4,234",382.492,Bauhauptgewerbe,Zhou Naixiang
+14.,Berkshire Hathaway,Omaha,Vereinigte Staaten USA,"302,089","−22,819",383.000,Mischkonzern,Warren Buffett
+15.,Volkswagen,Wolfsburg,Deutschland Deutschland,"293,685","15,233",675.805,Automobile,Oliver Blume
+16.,Uniper,Düsseldorf,Deutschland Deutschland,"288,309","−19,961",7.008,Energieversorger,Michael Lewis
+17.,Alphabet,Mountain View,Vereinigte Staaten USA,"282,836","59,972",190.234,Technologie,Sundar Pichai
+18.,McKesson,San Francisco,Vereinigte Staaten USA,"276,711","3,560",48.000,Pharmahandel,Brian S. Tyler
+19.,Toyota Motor,Toyota,Japan Japan,"274,491","18,110",375.235,Automobile,Akio Toyoda
+20.,TotalEnergies,Courbevoie,Frankreich Frankreich,"263,310","20,526",101.279,Öl und Gas,Patrick Pouyanné
+21.,Glencore,Baar ZG,Schweiz Schweiz,"255,984","17,320",81.706,Rohstoffhandel,Gary Nagle
+22.,BP,London,Vereinigtes Konigreich Großbritannien,"248,891","−2,487",67.600,Öl und Gas,Murray Auchincloss (interim)[4]
+23.,Chevron,San Ramon,Vereinigte Staaten USA,"246,252","35,465",43.846,Öl und Gas,Michael K. Wirth
+24.,AmerisourceBergen,Chesterbrook,Vereinigte Staaten USA,"238,587","1,699",41.500,Pharmahandel,Steven Collis
+25.,Samsung Electronics,Suwon,Korea Sud Südkorea,"234,129","42,398",270.372,Technologie,Hyun-Suk Kim
+26.,Costco Wholesale,Issaquah,Vereinigte Staaten USA,"226,954","5,844",304.000,Einzelhandel,W. Craig Jelinek
+27.,Foxconn,Taipeh,Taiwan Taiwan,"222,535","4,751",767.062,Technologie,Yang-Wei Liu
+28.,ICBC,Peking,China Volksrepublik Volksrepublik China,"214,766","53,589",427.587,Banken,Gu Shu
+29.,China Construction Bank,Peking,China Volksrepublik Volksrepublik China,"202,753","48,145",376.682,Banken,Tian Guoli
+30.,Microsoft,Redmond,Vereinigte Staaten USA,"198,270","72,738",221.000,Technologie,Satya Nadella
+31.,Stellantis,Hoofddorp,Niederlande Niederlande,"188,888","17,669",272.367,Automobile,Carlos Tavares
+32.,Agricultural Bank of China,Peking,China Volksrepublik Volksrepublik China,"187,061","38,524",452.258,Banken,Zhou Mubing
+33.,Ping An Insurance,Shenzhen,China Volksrepublik Volksrepublik China,"181,566","12,454",344.223,Versicherungen,Ma Mingjie
+34.,Cardinal Health,Dublin,Vereinigte Staaten USA,"181,364","−0,933",46.035,Pharmahandel,Michael C. Kaufmann
+35.,CIGNA,Bloomfield,Vereinigte Staaten USA,"180,516","6,668",70.231,Versicherungen,David M. Cordani
+36.,Marathon Petroleum,Findlay,Vereinigte Staaten USA,"180,012","14,516",17.800,Öl und Gas,Michael J. Hennigan
+37.,Phillips 66,Houston,Vereinigte Staaten USA,"175,702","11,024",13.000,Öl und Gas,Greg Garland
+38.,Sinochem,Peking,China Volksrepublik Volksrepublik China,"173,834","−0,001",223.448,Chemie,Frank Ning
+39.,China Railway Engineering,Peking,China Volksrepublik Volksrepublik China,"171,669","2,035",314.792,Eisenbahnbau,Chen Yun
+40.,Valero Energy,San Antonio,Vereinigte Staaten USA,"171,189","11,528",9.743,Öl und Gas,Joseph Gorder
+41.,Gazprom,Moskau,Russland Russland,"167,832","17,641",468.000,Öl und Gas,Alexei Miller
+42.,China National Offshore Oil,Peking,China Volksrepublik Volksrepublik China,"164,762","16,988",81.775,Öl und Gas,Yang Hua
+43.,China Railway Construction,Peking,China Volksrepublik Volksrepublik China,"163,037","1,800",342.098,Eisenbahnbau,Chen Fenjian
+44.,China Baowu Steel Group,Shanghai,China Volksrepublik Volksrepublik China,"161,698","2,493",245.675,Stahl,Chen Derong
+45.,Mitsubishi Motors,Tokio,Japan Japan,"159,371","8,723",79.706,Automobile,Takehiko Kakiuchi
+46.,Ford Motor,Dearborn,Vereinigte Staaten USA,"158,057","−1,981",173.000,Automobile,Jim Hackett
+47.,Mercedes-Benz Group,Stuttgart,Deutschland Deutschland,"157,403","15,252",168.797,Automobile,Ola Källenius
+48.,Home Depot,Atlanta,Vereinigte Staaten USA,"157,403","17,105",471.600,Einzelhandel,Craig Menear
+49.,Bank of China,Peking,China Volksrepublik Volksrepublik China,"156,409","33,811",306.182,Banken,Liu Liange
+50.,General Motors,Detroit,Vereinigte Staaten USA,"156,735","9,934",167.000,Automobile,Mary Barra
+51.,Elevance Health,Indianapolis,Vereinigte Staaten USA,"156,595","6,025",102.300,Versicherungen,Gail K. Boudreaux
+52.,JD.com,Peking,China Volksrepublik Volksrepublik China,"155,533","1,543",450.679,Internethandel,Liu Qiangdong
+53.,JPMorgan Chase,New York,Vereinigte Staaten USA,"154,792","37,676",293.723,Banken,James Dimon
+54.,China Life Insurance,Peking,China Volksrepublik Volksrepublik China,"151,487","6,859",180.619,Versicherungen,Wang Bin
+55.,Électricité de France,Paris,Frankreich Frankreich,"150,902","−18,869",165.028,Energieversorgung,Jean-Bernard Lévy
+56.,Equinor,Stavanger,Norwegen Norwegen,"150,806","28,746",21.936,Öl und Gas,Anders Opedal
+57.,BMW Group,München,Deutschland Deutschland,"149,991","18,870",149.475,Automobile,Oliver Zipse
+58.,Kroger,Cincinnati,Vereinigte Staaten USA,"148,275","2,244",430.000,Einzelhandel,Rodney McMullen
+59.,Enel,Rom,Italien Italien,"147,790","1,769",65.124,Versorger,Francesco Storace
+60.,Centene,St. Louis,Vereinigte Staaten USA,"144,547","1,202",74.300,Versicherungen,Michael F. Neidorff
+61.,Eni,Rom,Italien Italien,"140,607","14,606",32.188,Öl und Gas,Claudio Descalzi
+62.,China Mobile,Peking,China Volksrepublik Volksrepublik China,"139,597","14,718",452.202,Telekommunikation,Dong Xin
+63.,China Communications Construction,Peking,China Volksrepublik Volksrepublik China,"138,270","1,255",221.017,Bauhauptgewerbe,Liu Qitao
+64.,Verizon,New York,Vereinigte Staaten USA,"136,835","21,256",117.100,Telekommunikation,Hans Vestberg
+65.,China Minmetals,Peking,China Volksrepublik Volksrepublik China,"133,541","0,877",183.298,Bergbau,Tang Fuping
+66.,Walgreens Boots Alliance,Deerfield,Vereinigte Staaten USA,"132,703","4,337",262.500,Pharmahandel,Stefano Pessina
+67.,Allianz,München,Deutschland Deutschland,"129,059","7,087",159.253,Versicherungen,Oliver Bäte
+68.,Alibaba Group,Hangzhou,China Volksrepublik Volksrepublik China,"129,059","10,625",235.216,Onlinehandel,Daniel Zhang
+69.,Xiamen C & D,Xiamen,China Volksrepublik Volksrepublik China,"125,971","0,454",40.959,Logistik,
+70.,Honda Motor,Tokio,Japan Japan,"124,912","4,813",197.039,Automobile und Motoren,Takahiro Hachigo
+71.,Petrobras,Rio de Janeiro,Brasilien Brasilien,"124,474","36,623",45.149,Öl und Gas,Joaquim Silva e Luna
+72.,Shandong Energy Group,Jinan,China Volksrepublik Volksrepublik China,"124,089","0,033",232.841,Kohle,Michael F. Neidorff
+73.,E.ON,Essen,Deutschland Deutschland,"121,646","1,926",69.378,Energieversorger,Leonhard Birnbaum
+74.,China Resources,Hongkong,China Volksrepublik Volksrepublik China,"121,643","4,662",379.944,Mischkonzern,Chen Xinhua
+75.,Fannie Mae,"Washington, D.C.",Vereinigte Staaten USA,"121,596","12,923",8.000,Banken,Hugh R. Frater
+76.,China Energy Investment,Peking,China Volksrepublik Volksrepublik China,"121,427","5,699",310.753,Energie,Qiao Baoping
+77.,Comcast,Tupelo,Vereinigte Staaten USA,"121,427","5,370",186.000,Telekommunikation,Brian L. Roberts
+78.,AT&T,Dallas,Vereinigte Staaten USA,"120,741","−8,524",160.700,Telekommunikation,John T. Stankey
+79.,Deutsche Telekom,Bonn,Deutschland Deutschland,"120,108","8,415",206.759,Telekommunikation,Timotheus Höttges
+80.,PEMEX,Mexiko-Stadt,Mexiko Mexiko,"118,537","4,994",120.054,Öl und Gas,Octavio Romero Oropeza
+81.,Meta Platforms,Menlo Park,Vereinigte Staaten USA,"116,609","23,200",86.482,Technologie,Mark Zuckerberg
+82.,Bank of America,Charlotte,Vereinigte Staaten USA,"115,053","27,528",216.823,Banken,Brian Moynihan
+83.,China Southern Power Grid,Guangzhou,China Volksrepublik Volksrepublik China,"113,674","1,516",271.202,Energieversorgung,Yuan Maozhen
+84.,SAIC Motor,Shanghai,China Volksrepublik Volksrepublik China,"110,612","2,396",154.863,Automobile,Wang Xiaoqiu
+85.,Hyundai Motor,Seoul,Korea Sud Südkorea,"110,412","5,705",72.689,Automobile,Won Hee Lee
+86.,China Post,Peking,China Volksrepublik Volksrepublik China,"110,271","4,897",752.547,Logistik,Liu Aili
+87.,COFCO,Peking,China Volksrepublik Volksrepublik China,"110,222","1,766",103.537,Lebensmittel,Chi Jingtao
+88.,Reliance Industries,Mumbai,Indien Indien,"109,523","8,307",376.000,Mischkonzern,Mukesh Ambani
+89.,Engie,Courbevoie,Frankreich Frankreich,"109,175","0,227",96.454,Energieversorger,Catherine MacGregor
+90.,Target Corporation,Minneapolis,Vereinigte Staaten USA,"109,120","2,780",440.000,Einzelhandel,Brian C. Cornell
+91.,AXA,Paris,Frankreich Frankreich,"109,067","7,021",90.433,Versicherungen,Thomas Buberl
+92.,SK Hynix,Icheon,Korea Sud Südkorea,"105,959","0,851",124.499,Technologie,Park Sung-wook
+93.,Mitsui Group,Tokio,Japan Japan,"105,694","8,553",46.811,Mischkonzern,Tatsuo Yasunaga
+94.,Indian Oil Corporation,Neu-Delhi,Indien Indien,"105,349","1,219",32.856,Öl und Gas,Shrikant Madhav Vaidya
+95.,Xiamen ITG Holding Group,Xiamen,China Volksrepublik Volksrepublik China,"103,090","0,290",32.856,Mischkonzern,
+96.,Itōchū Shōji,Osaka,Japan Japan,"103,029","5,914",133.051,Einzelhandel,Masahiro Okafuji
+97.,Dell Technologies,Round Rock,Vereinigte Staaten USA,"102,301","2,442",133.000,Technologie,Michael Dell
+98.,Archer Daniels Midland,Chicago,Vereinigte Staaten USA,"101,556","4,340",41.181,Lebensmittel,Juan Luciano
+99.,Citigroup,New York City,Vereinigte Staaten USA,"101,078","14,845",238.104,Banken,Jane Fraser
+100.,CITIC Group,Peking,China Volksrepublik Volksrepublik China,"100,769","3,904",172.761,Mischkonzern,Chang Zhenming
