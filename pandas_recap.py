@@ -42,8 +42,21 @@ print("\nFiltered DataFrame:")
 print(filtered_df)
 
 
+# Create dataframe
+data_list = [["A", 10], ["B", 20], ["C", 30], ["D", 40]]
+df = pd.DataFrame(data_list, columns=['Col1', 'Col2'])
+print("\nDataframe:")
+print(df.head())
+
+data_dict = {'Col1': [1, 2, 5], 'Col2': [3, 4, 7]}
+df = pd.DataFrame(data_dict)
+print("\nDataframe:")
+print(df.head())
+
+
+
 # Export DataFrame to a CSV file
-filtered_df.to_csv("output.csv", index=False)
+df.to_csv("output.csv", index=False)
 print("\nDataFrame exported successfully to: output.csv")
 
 
